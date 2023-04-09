@@ -147,12 +147,3 @@
 .total span {
   color: #fff;
 }
-
-.bottom {
-  display: flex;
-  justify-content: flex-end;
-  align-items: end;
-  position: absolute;
-  bottom: 24px;
-  right: 32px;
-}
